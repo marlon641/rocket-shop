@@ -1,0 +1,26 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "a place of learning",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlon641/rocket-shop.git"
+  },
+  "author": "marlon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlon641/rocket-shop/issues"
+  },
+  "homepage": "https://github.com/marlon641/rocket-shop#readme"
+}
